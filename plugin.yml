@@ -1,0 +1,11 @@
+name: MaintenanceE
+version: 0.1
+api-version: 1.17
+main: de.mrg4ming.Main
+author: MrG4ming
+description: A plugin to set your server into a maintenance mode
+
+commands:
+  maintenance:
+    description: Set your server into a maintenance mode
+    usage: §8[§5MaintenanceE§8]§6 /maintenance <on|off>

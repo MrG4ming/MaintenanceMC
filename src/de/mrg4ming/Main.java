@@ -14,7 +14,7 @@ public class Main extends JavaPlugin {
 
     private static Main plugin;
 
-    public static final String PREFiX = "§8[§5MaintenanceE§8]§r ";
+    public static final String PREFiX = "§8[§5MaintenanceMC§8]§r ";
 
     public boolean maintenance = false;
 
